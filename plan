@@ -1,0 +1,3 @@
+#! /bin/bash
+./tlp-gp $1 $2
+mv solution-plan.txt $3
